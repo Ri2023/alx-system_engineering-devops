@@ -8,5 +8,5 @@
   ssh-add ~/.ssh/school
   
 # Username and IP Address
-  ssh ubuntu@54.237.118.137
+  ssh ubuntu@107.22.145.173
 
